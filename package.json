@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "uSilky_",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security",
+    "dateformat": "^3.0.3",
+  }
+}
